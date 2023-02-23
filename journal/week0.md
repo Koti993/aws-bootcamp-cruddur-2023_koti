@@ -20,6 +20,9 @@
 	Created Lucid Chart with respect to the project
 
 Refernce for lucid chart -> https://lucid.app/lucidchart/invitations/accept/inv_219bf4e2-59e3-4b7a-8b26-d173b8b3f367
+
+![image](https://user-images.githubusercontent.com/111625550/220999319-976d4614-342c-4e29-a078-423317082512.png)
+
 --------------------------------------------------------------------------------------------------------------
 Notes
 ---------------------------------------------------------------------------------------------------------------
